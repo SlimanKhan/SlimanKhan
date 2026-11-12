@@ -1,60 +1,69 @@
  
-<!-- ====================================================== -->
-<!--                 SLIMAN KHAN | GITHUB                   -->
-<!-- ====================================================== -->
+<!-- ========================================================= -->
+<!--                  SLIMAN KHAN | GITHUB                     -->
+<!--              PREMIUM DEVELOPER PORTFOLIO                   -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=230&section=header&text=SLIMAN%20KHAN&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Mobile%20Application%20Developer&descSize=20&descAlignY=60&animation=fadeIn" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,35:1D4ED8,70:4F46E5,100:7C3AED&height=240&section=header&text=SLIMAN%20KHAN&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=MOBILE%20APPLICATION%20DEVELOPER&descSize=18&descAlignY=57&animation=fadeIn" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Android+Application+Developer;Java+%7C+Kotlin+Developer;Flutter+%26+Dart+Developer;REST+API+%26+Firebase+Integration;Building+Modern+Mobile+Experiences" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=750&lines=Android+Development+%7C+Java+%26+Kotlin;Cross-Platform+Development+%7C+Flutter;Dart+%7C+Firebase+%7C+REST+APIs;Building+Modern+Mobile+Experiences" />
 
 <br/><br/>
 
 <a href="https://github.com/SlimanKhan">
-<img src="https://img.shields.io/badge/GitHub-SlimanKhan-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-SlimanKhan-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<img src="https://img.shields.io/badge/Focus-Mobile%20Development-2563EB?style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://komarev.com/ghpvc/?username=SlimanKhan&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
+<a href="https://github.com/SlimanKhan?tab=repositories">
+<img src="https://img.shields.io/badge/Explore-My%20Projects-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://github.com/SlimanKhan">
+<img src="https://komarev.com/ghpvc/?username=SlimanKhan&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS"/>
+</a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 01 — Professional Introduction
 
-Hello! I'm **Sliman Khan**, a Mobile Application Developer passionate about building modern, functional, and user-friendly mobile applications.
+<img align="right" width="110" src="https://skillicons.dev/icons?i=androidstudio,flutter" />
 
-I specialize in Android development and cross-platform application development, using Java, Kotlin, Flutter, and Dart.
+I'm **Sliman Khan**, a Mobile Application Developer passionate about designing and developing modern, functional, and user-friendly mobile applications.
 
-- 📱 Focused on Android and cross-platform mobile development.
-- ☕ Developing Android applications with Java and Kotlin.
-- 🐦 Building cross-platform applications using Flutter and Dart.
-- 🔥 Integrating Firebase services into mobile applications.
-- 🔗 Connecting applications with REST APIs.
-- 🗄️ Working with MySQL databases.
-- 🚀 Passionate about creating practical mobile solutions.
+My development focus includes native Android applications and cross-platform mobile solutions. I enjoy transforming ideas into practical applications through clean development practices, API integration, and database technologies.
+
+- 📱 Native Android Application Development
+- 🚀 Cross-Platform Application Development
+- ☕ Java & Kotlin Programming
+- 🐦 Flutter & Dart Development
+- 🔥 Firebase Integration
+- 🔗 REST API Integration
+- 🗄️ MySQL Database Management
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Technical Skills
+## 02 — Technology Stack
 
-### 📱 Mobile Application Development
+### Mobile Development
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java,kotlin,flutter,dart,androidstudio" />
 </p>
 
-### 🔥 Backend & API Integration
+### Backend & Database
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=firebase,mysql" />
 <img src="https://img.shields.io/badge/REST%20API-Integration-2563EB?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
-### 🔧 Development Tools
+### Development Environment & Tools
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
@@ -62,53 +71,80 @@ I specialize in Android development and cross-platform application development, 
 
 ---
 
-## 🚀 Featured Projects
+## 03 — Featured Projects
 
-### 01. Secure SZU Offline Verification System
+<div align="center">
 
-**Technology:** Kotlin | Android Development
+### 📱 Secure SZU Offline Verification System
+
+**Kotlin | Android Development**
+
+</div>
 
 An Android application developed as a university final project, focused on secure offline verification.
 
-- Android mobile application.
+**Project Highlights**
+- Native Android application.
 - Developed using Kotlin.
-- Designed for offline verification.
+- Designed around offline verification functionality.
 
-[View Repository →](https://github.com/SlimanKhan/Secure-SZU-Offline-Verification-System)
+<div align="center">
+
+<a href="https://github.com/SlimanKhan/Secure-SZU-Offline-Verification-System">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-### 02. Nibras Application
+<div align="center">
 
-**Technology:** Flutter | Dart
+### 🎓 Nibras Application
 
-A modern mobile application for learning, managing courses, and accessing educational content.
+**Flutter | Dart**
 
+</div>
+
+A modern educational mobile application designed to support learning, course management, and access to educational content.
+
+**Project Highlights**
 - Flutter-based mobile application.
-- Educational content and course management.
+- Educational content access.
+- Course management functionality.
 - Cross-platform development approach.
 
-**Repository:** Private
+<sub>Repository is private. Source code is not publicly accessible.</sub>
 
 ---
 
-### 03. GYM Application
+<div align="center">
 
-**Technology:** Android Development
+### 🏋️ GYM Application
 
-A mobile application designed for Android users with a focus on gym-related functionality.
+**Android Development**
 
-[View Repository →](https://github.com/SlimanKhan/GYM-App)
+</div>
+
+A mobile application developed for Android users with a focus on gym-related functionality.
+
+<div align="center">
+
+<a href="https://github.com/SlimanKhan/GYM-App">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## 📊 GitHub Statistics
+## 04 — GitHub Analytics
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SlimanKhan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlimanKhan&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlimanKhan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 <br/><br/>
 
@@ -118,36 +154,38 @@ A mobile application designed for Android users with a focus on gym-related func
 
 ---
 
-## 📈 Contribution Activity
+## 05 — Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SlimanKhan&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SlimanKhan&bg_color=0D1117&color=60A5FA&line=818CF8&point=FFFFFF&area=true&hide_border=true&custom_title=DEVELOPMENT%20ACTIVITY"/>
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 06 — Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/SlimanKhan">
-<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+<br/><br/>
 
----
+**Open to learning, collaboration, and building meaningful mobile applications.**
 
-<div align="center">
+<br/>
 
-### 💙 BUILDING | LEARNING | INNOVATING
+*Code with purpose. Build with passion. Create with technology.*
 
-*Turning ideas into meaningful mobile experiences.*
+<br/>
 
-**Thanks for visiting my GitHub profile!**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=120&section=footer" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,35:1D4ED8,70:4F46E5,100:7C3AED&height=130&section=footer"/>
 
 </div>
+
+<!-- ========================================================= -->
+<!--                    END OF PROFILE                         -->
+<!-- ========================================================= -->
